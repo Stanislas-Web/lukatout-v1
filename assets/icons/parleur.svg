@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>parleur</title>
+	<defs>
+		<image  width="41" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAwCAMAAAC7Z6OXAAAAAXNSR0IB2cksfwAAAUpQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ZnEtnQAAAG50Uk5TAMHEEP3/AgEz2ts6H8Pc9EDeuxLHDizpxlkD6i0o5vVCVspBt/6iHPmN8HkHUjue3SGRFDzzkIJztjirBmX8F/K9DFf68SAPSvZvC80VPlUy1hs17JgqCCMiX+sv7l6MU0X4tO0Ems4pPWOEZIUc4E1YAAABv0lEQVR4nI3UZ1fCMBQG4At6qSBSqgIKCKLiVlw4QHEi7r33Hqj//6slQNOkoeR+ek/znIybkwLYlMNpNwrQYKRGdJWDInJNbvQ0c9LrbrFCxYeIqp+RXg1brbINkdKy1GF7QDCnx0SJrAEBgiFKnR02kKX6Gu5asDPIUsXRKoZhTyQKXTFC493iRcuVQJSkPToIcRtwkMxdbC/5yFEniR2s7CMfJTYQTaIk7UeUowODKEmHEOVoYBgl6QiiHB2NoSQd4yFzBeMmGU7Z0Qn66CZBmbKj01U4k55VYK421RQDIqbCMJ+00AUXBDXUMiaImF2EpRzDctkZcoTl6tLjK+WB1TVY36AuP7XJtbwKEVsKsLVdyZ6dXf4WKUTc24eDfCk4D8O8g6O0eWfHJ3B6Fj+/sDCASx97Vu0KrtsEDuCG68rtnZDplbLAeRKsP9ksA++b4KHSfRcvH7kZn3Lk8TZaZYaFzy+loPoF0vQgdZiptExNCuToK4XRN7qAVcL7h9GeA5VKv6hTic8k9nyVkp9S9VvY1cB+JZhoqCCkRplo0V6a6E8dSelvPVmlkYa6Er4jpa6Jz85VofhX5Gf8BwUJPx7JmqRpAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="5" y="2"/>
+</svg>
